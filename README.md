@@ -28,8 +28,8 @@ To gain an understanding of how to build a basic app
 - Parameters and Arguments: Parameters are the names of variables waiting to receive value. Arguments are the values that are sent to parameters
 - Global and Local variables: Global variables are variables that are accessible by all event listeners and procedures. Local variables are variables that are only accessible by one event listener or procedure
 ## Further Resources
-https://appinventor.mit.edu/			Has tutorials and ideas for beginning your app
-http://www.appinventor.org/book2		A textbook for ai2 with definitions and explanations 
-https://appinventor.mit.edu/explore/library	More ways to figure out how to use different blocks
+- https://appinventor.mit.edu/			- Has tutorials and ideas for beginning your app
+- http://www.appinventor.org/book2		- A textbook for ai2 with definitions and explanations 
+- https://appinventor.mit.edu/explore/library	- More ways to figure out how to use different blocks
 
 
